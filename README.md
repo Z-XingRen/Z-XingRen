@@ -2,7 +2,8 @@
 
 <!--
 **Z-XingRen/Z-XingRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+合肥工业大学计算机技术在读，27届毕业
+求职意向：AI应用开发、Java后端开发
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
